@@ -2,5 +2,8 @@
 
 def login():
     pass
+
 def isvaliduser():
+    pass
+def logout():
     pass
